@@ -208,12 +208,11 @@
       <br>
       
  
-</footer>
+
 <!-- =================================futer============================================================= -->
       <dir class="shawon" style="margin: 0; padding: 0;">
-      	<p style="color: #fff5; text-align: center; padding-top: 12px; width: 100%; margin: 0;">&copy copyrite by shawondeb@-2020.com</p>
+      	<p style="color: #fff5; text-align: center; padding-top: 12px; width: 100%; margin: 0;">© copyrite by shawondeb@-2020.com</p>
       	<p style="color: #fff5; text-align: center; padding-top: 12px; width: 100%; margin: 0;">A Demo Website </p>
       </dir>
 
-</body>
-</html>
+

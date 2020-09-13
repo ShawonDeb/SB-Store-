@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -199,6 +199,7 @@
           </li>
         </nav>
       </div>
+      </footer>
 
 
 
@@ -214,5 +215,7 @@
       	<p style="color: #fff5; text-align: center; padding-top: 12px; width: 100%; margin: 0;">© copyrite by shawondeb@-2020.com</p>
       	<p style="color: #fff5; text-align: center; padding-top: 12px; width: 100%; margin: 0;">A Demo Website </p>
       </dir>
+      </body>
+      </html>
 
 

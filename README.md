@@ -1,5 +1,4 @@
-# SB-Store-
-A Demo Web Site Home Page
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

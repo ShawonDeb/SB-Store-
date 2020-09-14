@@ -5,6 +5,10 @@
 	<meta charset="UTF-8">
 	<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 	<style type="text/css">
+		*{
+		margin: 0;
+		padding: 0;
+		}
 		.shawon{
 			position: relative;
    			left: 0;
